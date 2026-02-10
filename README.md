@@ -96,6 +96,7 @@ Também participei de diversos cursos voltados ao **estudo da língua inglesa** 
 * Criação de artes digitais
 * Divulgação de eventos e avisos
 * Gerenciamento e produção de conteúdo para redes sociais (Instagram, entre outras)
+* Gestão do canal YouTube da Paróquia, transmitindo celebrações, eventos e atividades pastorais
 * Apoio à comunicação institucional e evangelização digital
 
 ---
