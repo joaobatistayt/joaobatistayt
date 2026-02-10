@@ -64,26 +64,32 @@ Também participei de diversos cursos voltados ao **estudo da língua inglesa** 
 
 ## 💼 Experiência e Atividades
 
-### 🚀 Campus Mobile
+### 🚀 Campus Mobile — Participante
 
-* **Cargo:** Participante
-- **Empresa:** Campus Mobile  
-  🔗 https://www.linkedin.com/company/campus-mobile-brazil
+* **Empresa:** Campus Mobile
+  🔗 [Link](https://www.linkedin.com/company/campus-mobile-brazil)
 * **Período:** Janeiro/2026 – Fevereiro/2026
 * **Categoria:** Green Tech & Agtech
 * **Projeto:** Verde Árido
+* **Descrição:**
+  Participação na **14ª Edição do Programa Campus Mobile**, na categoria **Green Tech & Agtech**, com o projeto **Verde Árido**, voltado à inovação e tecnologia com impacto socioambiental.
+  *(Descrição completa do projeto em breve.)*
 
-**Descrição:**
-Participação na **14ª Edição do Programa Campus Mobile**, na categoria **Green Tech & Agtech**, com o projeto **Verde Árido**, voltado à inovação e tecnologia com impacto socioambiental.
-*(Descrição completa do projeto em breve.)*
+---
+
+### 🌟 Paróquia Nossa Senhora da Conceição — Secretário
+
+* **Período:** Junho/2025 – Outubro/2025 (4 meses)
+* **Descrição:**
+  Atuação na gestão administrativa da Paróquia, organização de agendas, apoio em eventos e atividades pastorais, além de suporte na comunicação interna e externa.
 
 ---
 
 ### 🌱 Comunicação e Mídias Digitais
 
-* Comunicador da **Pastoral da Comunicação (PASCOM)** da Paróquia Nossa Senhora da Conceição
-* Comunicador da **Capela Menino Jesus**
-* Comunicador do **Grupo de Oração Filhos de Maria**
+* **Comunicador** da Pastoral da Comunicação (PASCOM) da Paróquia Nossa Senhora da Conceição
+* **Comunicador** da Capela Menino Jesus
+* **Comunicador** do Grupo de Oração Filhos de Maria
 
 **Atividades realizadas:**
 
