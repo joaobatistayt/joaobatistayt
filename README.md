@@ -81,7 +81,7 @@ Também participei de diversos cursos voltados ao **estudo da língua inglesa** 
 
 * **Período:** Junho/2025 – Outubro/2025 (4 meses)
 * **Descrição:**
-  Atuação na gestão administrativa da Paróquia, organização de agendas, apoio em eventos e atividades pastorais, além de suporte na comunicação interna e externa.
+  Atuação na gestão administrativa da Paróquia junto ao Pároco, organização de agendas, apoio em eventos e atividades pastorais, além de suporte na comunicação interna e externa.
 
 ---
 
