@@ -1,4 +1,4 @@
-# 👨‍💻 João Batista Gomes Bezerra de Souza
+# 👋 Olá, eu sou João Batista
 
 📍 **Cachoeira dos Índios – PB**
 📧 **E-mail:** [jb0524056@gmail.com](mailto:jb0524056@gmail.com)
@@ -41,7 +41,7 @@ Tenho interesse em **desenvolvimento web**, **tecnologia educacional** e **proje
 * TypeScript
 
 ### Banco de Dados
-* PostgreeSQL
+* PostgreSQL
 
 ### Outros
 
