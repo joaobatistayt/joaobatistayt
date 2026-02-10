@@ -9,15 +9,14 @@
 
 ## 🧑‍🎓 Sobre mim
 
-Sou estudante de **Computação**, graduando pelo **Instituto Federal da Paraíba (IFPB) – Campus Cajazeiras**, com conclusão prevista para **2027**.
+Sou estudante de **Análise e Desenvolvimento de Sistemas**, graduando pelo **Instituto Federal da Paraíba (IFPB) – Campus Cajazeiras**, com conclusão prevista para **2027**.
 Tenho interesse em **desenvolvimento web**, **tecnologia educacional** e **projetos com impacto social**. Gosto de aprender na prática, participar de eventos e atuar de forma colaborativa, sempre buscando evoluir tecnicamente e como pessoa.
 
 ---
 
 ## 🎓 Formação Acadêmica
 
-* **Curso:** Computação
-  *(Ciência da Computação, Sistemas de Informação, Análise e Desenvolvimento de Sistemas, Desenvolvimento de Jogos, entre outros)*
+* **Curso:** Análise e Desenvolvimento de Sistemas
 * **Nível:** Graduação
 * **Instituição:** Instituto Federal da Paraíba (IFPB) – Campus Cajazeiras
 * **Conclusão prevista:** 2027
@@ -31,12 +30,18 @@ Tenho interesse em **desenvolvimento web**, **tecnologia educacional** e **proje
 * C / C++
 * Java
 * JavaScript
+* TypeScript
+* SQL
 
 ### Desenvolvimento Web
 
 * HTML
 * CSS
 * JavaScript
+* TypeScript
+
+### Banco de Dados
+* PostgreeSQL
 
 ### Outros
 
@@ -62,7 +67,8 @@ Também participei de diversos cursos voltados ao **estudo da língua inglesa** 
 ### 🚀 Campus Mobile
 
 * **Cargo:** Participante
-* **Empresa:** Campus Mobile
+- **Empresa:** Campus Mobile  
+  🔗 https://www.linkedin.com/company/campus-mobile-brazil
 * **Período:** Janeiro/2026 – Fevereiro/2026
 * **Categoria:** Green Tech & Agtech
 * **Projeto:** Verde Árido
