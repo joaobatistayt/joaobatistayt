@@ -2,8 +2,7 @@
 
 📍 **Cachoeira dos Índios – PB**
 📧 **E-mail:** [jb0524056@gmail.com](mailto:jb0524056@gmail.com)
-📱 **Celular:** (83) 99622-0108
-🔗 **LinkedIn:** [https://www.linkedin.com/in/joao-batista-yt-6983651a0/](https://www.linkedin.com/in/joao-batista-yt-6983651a0/)
+🔗 **LinkedIn:** [https://www.linkedin.com/in/joaobatistayt](https://www.linkedin.com/in/joaobatistayt)
 
 ---
 
