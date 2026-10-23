@@ -30,21 +30,53 @@ Tenho interesse em **desenvolvimento web**, **tecnologia educacional** e **proje
 * Java
 * JavaScript
 * TypeScript
+* Python
 * SQL
 
 ### Desenvolvimento Web
 
 * HTML
 * CSS
-* JavaScript
-* TypeScript
+* React
+* Tailwind CSS
+* Vite
+* Node.js
+* Express
+* APIs REST
+* JWT
 
 ### Banco de Dados
+
 * PostgreSQL
+* MySQL
+* MongoDB
+* Supabase
+* Redis
+
+### Controle de Versão e Deploy
+
+* Git
+* GitHub
+* GitHub Actions
+* Docker
+* Vercel
+* Visual Studio Code (VS Code)
+
+### Metodologias e Colaboração
+
+* Scrum
+* Kanban
+* Trello
+* Slack
+* GitHub Projects
 
 ### Outros
 
 * Implementação *low-code* e *no-code*
+* Prototipagem e desenvolvimento de MVPs
+* Testes funcionais e de usabilidade
+* Validação de soluções com usuários
+* Manutenção e evolução de aplicações web
 
 ---
 
